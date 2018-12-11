@@ -7,8 +7,8 @@ module.exports = {
     title: 'Nanogen site',
     menus: [
       [ 'Home' , '/'],
-      ['Profile', '/profile'],
-      [ 'Writings' , '/writings']
+      ['Profile', '/profile/'],
+      [ 'Writings' , '/writings/']
     ]    
   }
 };
