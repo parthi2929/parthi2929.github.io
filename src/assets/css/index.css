@@ -101,3 +101,12 @@
 .card:hover {
   box-shadow:0 30px 70px rgba(0,0,0,.2);
 }
+
+@media screen and (max-width:768px) {
+  .card {
+      min-height:400px;
+  }
+  .card .box{
+    font-size: 12px;
+  }
+}
