@@ -18,7 +18,13 @@
         </div>
       </nav>   -->
 
-      <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark justify-content-center">
+      <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          
+          <div class="collapse navbar-collapse" id="navbarColor03">
           <ul class="navbar-nav">
               <li class="nav-item">
                   <a class="nav-link" href="<%= site.menus[0][1] %>"><%= site.menus[0][0]%><span class="sr-only">(current)</span></a>
@@ -29,4 +35,5 @@
                   </li>
                   <% } %>
           </ul>
+          </div>          
         </nav>
