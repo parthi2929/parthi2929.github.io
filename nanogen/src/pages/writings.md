@@ -2,9 +2,9 @@
 layout: default_layout
 ---
 
-### MSc Computer Science, Online (Georgia Tech, USA), 2019-
+### [OMSCS](http://www.omscs.gatech.edu/)
 
-* Computational Photography [[notes](https://cs6475.netlify.com/)]
+* 2019 - Computational Photography [[notes](https://cs6475.netlify.com/)]
 
 ### Udacity
 
