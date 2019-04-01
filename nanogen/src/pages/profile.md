@@ -11,14 +11,21 @@ number: +91-9894534589
 
 ### Experience
 
-##### Learning Break (AI, Entrepreneurship), March 2017 - Current, 1 year+
-*Self-Employed, Founter, Student*
+##### Student (Georgia Tech, USA), Jan 2019 – 
+*Student, OMSCS (MSc. Computer Science Online)*  
+
+* Computational Photography (In progress)
+
+
+##### Learning Break (AI, Entrepreneurship), March 2017 - Dec 2018
+*Student, Founder*
 
 * Founded Venba Enterprises, for Areca plates exports
 * certified “Nodejs Development Course”  online, Edureka, Grade A (3 months)
 * certified “Blockchain Development Course” online, Edureka, Grade A (3 months)
 * “Introduction to Python” course, online, Udacity 
-* “Introduction to Self Driving Cars” Nano degree, Udacity (foundational AI) 
+* “Introduction to Machine Learning” course, online, Udacity 
+* “Introduction to Self Driving Cars” Nano degree, Udacity
 
 ##### Robert Bosch Engineering and Business Solutions Limited, Coimbatore,  August 2007 – March 2017,  10 years
 *Product Owner, Senior Software Engineer, Developer*
