@@ -1,5 +1,5 @@
 {
-  "name": "static_1",
+  "name": "nanogen",
   "version": "1.0.0",
   "description": "",
   "main": "site.config.js",
@@ -9,9 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "nanogen": "^0.4.2"
-  },
-  "dependencies": {}
+  "license": "ISC"
 }
