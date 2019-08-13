@@ -5,6 +5,7 @@ layout: default_layout
 ### [OMSCS](http://www.omscs.gatech.edu/)
 
 * 2019 - Computational Photography [[notes](https://cs6475.netlify.com/)]
+* 2019 - Knowledge Based Artificial Intelligence [[notes](https://cs7637.netlify.com/)]
 
 ### Udacity
 

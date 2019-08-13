@@ -14,7 +14,8 @@ number: +91-9894534589
 ##### Student (Georgia Tech, USA), Jan 2019 – 
 *Student, OMSCS (MSc. Computer Science Online)*  
 
-* Computational Photography (In progress)
+* [Computational Photography](https://www.omscs.gatech.edu/cs-6475-computational-photography) (2019, Grade A)
+* [Knowledge Based Artificial Intelligence](https://www.omscs.gatech.edu/cs-7637-knowledge-based-artificial-intelligence-cognitive-systems)  (2019, Grade A)
 
 
 ##### Learning Break (AI, Entrepreneurship), March 2017 - Dec 2018
