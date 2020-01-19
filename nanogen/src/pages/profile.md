@@ -11,6 +11,17 @@ number: +91-9894534589
 
 ### Experience
 
+##### IAC Krishitech, Coimbatore, Aug 2019 - 
+*Chief Software Architect (External)*
+
+* Responsible for building and managing complete automation, ERP and assisting SW systems for Aeroponics
+* Leads the strategy for technology platforms, partnerships and external relationships
+* Identify and implement technology solutions to meet current and future business needs
+* Create overall technology standards and practices and ensure adherence
+* Oversee all system designs and changes in system architecture
+
+
+
 ##### Student (Georgia Tech, USA), Jan 2019 – 
 *Student, OMSCS (MSc. Computer Science Online)*  
 
